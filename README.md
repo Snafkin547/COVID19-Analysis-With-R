@@ -14,16 +14,9 @@ In addition, we will see more statistical experiments on data in the dataset, as
 
 ### Data Profile
 In this analysis, we will look into vaccination progress of 86 countries of countries from 7 regions
+![image](https://user-images.githubusercontent.com/62607343/130643226-5044be55-9315-465b-9343-28cb4d101323.png)
 
-## 
-##        East Asia & Pacific      Europe & Central Asia 
-##                          7                         41 
-##  Latin America & Caribbean Middle East & North Africa 
-##                         15                         11 
-##              North America                 South Asia 
-##                          3                          6 
-##         Sub-Saharan Africa 
-##                          3
+
 Amongst those who started vaccinating, there are three groups of income level; High income, Upper middle income, and Lower middle income. This also shows that countries of low income profile have not been able to start vaccinating yet.
 
 ## 
